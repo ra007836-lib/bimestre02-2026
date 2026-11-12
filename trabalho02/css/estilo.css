@@ -1,0 +1,6 @@
+/* Garante que o texto de todos os thead ou cabeçalhos de tabela seja sempre branco */
+table thead,
+table thead th,
+.table thead th {
+    color: #ffffff !important;
+}
